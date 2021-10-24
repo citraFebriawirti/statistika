@@ -1,4 +1,5 @@
 # Penyajian data
-<li>Tabel distribusi frekuensi</li>
+<ol>
 <li>Diagram batang</li>
 <li>Modus</li>
+</ol>
